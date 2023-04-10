@@ -1,0 +1,8 @@
+đăng ký đăng nhập 
+check admin và user
+thêm sản phẩm ,xóa sản phẩm , update sản phẩm ,update ảnh , check auth
+thêm danh mục , xóa danh mục , update danh mục , check auth 
+list sản phẩm có phân trang limit order sort 
+list danh mục 
+tìm kiếm sản phẩm theo tên 
+lọc sản phẩm theo danh mục 
